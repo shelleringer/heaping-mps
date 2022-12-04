@@ -6,12 +6,11 @@ Here we provide materials for replicating the visualization below. This figure s
 
 # Data
 
-The data visualized in this figure come from multiple sources, including cross-national survey programs and national surveys and censuses. Access to several of these data sources require prior registration. 
+The data visualized in this figure come from multiple sources, including cross-national survey programs and national surveys and censuses. Access to several of these data sources require prior registration. Instructions and links to registration sites are provided in the [supplementary material of the data visualization.](https://github.com/shelleringer/heaping-mps/blob/main/Heaping-methods-12042022sh.docx). 
 
 # Methods
 
-The methods used to calculate Whipple's index in each of the survey/census data sets analyzed are described in the [supplementary material of the data visualization.](https://github.com/shelleringer/heaping-mps/files/10148061/Heaping-methods-10122022sh.docx)
-
+The methods used to calculate Whipple's index in each of the survey/census data sets analyzed are described in the [supplementary material of the data visualization.](https://github.com/shelleringer/heaping-mps/blob/main/Heaping-methods-12042022sh.docx)
 
 # Code
 
