@@ -12,12 +12,10 @@ In this repository, we include [several data sets that contain age distributions
 
 # Methods
 
-The methods used to calculate Whipple's index in each of the survey/census data sets analyzed are described in more details in the [supplementary material of the data visualization.](https://github.com/shelleringer/heaping-mps/blob/main/Heaping-methods-12042022sh.docx) We used Tim Riffe's [DemoTools](https://timriffe.github.io/DemoTools/) package to calculate Whipple's index in each of the data sources analyzed in this visualization. 
+The methods used to calculate Whipple's index in each of the survey/census data sets analyzed are described in more details in the [supplementary material of the data visualization.](https://github.com/shelleringer/heaping-mps/blob/main/Heaping-methods-12042022sh.docx)  
 
 # Code
 
-The [code](https://github.com/shelleringer/heaping-mps/blob/main/heaping_visualization.R) included in this repository allows replicating our data visualization from the summary data set of Whipple's index
+The [code](https://github.com/shelleringer/heaping-mps/blob/main/heaping_visualization.R) included in this repository allows replicating our data visualization from the summary data set of Whipple's index. To calculate Whipple's index in each of the data sources analyzed in this visualization, we used Tim Riffe's [DemoTools](https://timriffe.github.io/DemoTools/) package, particularly the check_heaping_whipple() function.  
 
-
-https://github.com/shelleringer/heaping-mps/upload/main/MPS%20data
 
