@@ -6,9 +6,11 @@ Here we provide materials for replicating the visualization below. This figure s
 
 # Data
 
-The data visualized in this figure come from multiple sources, including cross-national survey programs and national surveys and censuses. Access to several of these data sources require prior registration. Instructions and links to registration sites are provided in the [supplementary material of the data visualization](https://github.com/shelleringer/heaping-mps/blob/main/Heaping-methods-12042022sh.docx). 
+The data visualized in this figure come from multiple publicly available sources, including cross-national survey programs and national surveys and censuses. Access to several of these data sources require prior registration. Instructions and links to registration sites are provided in the [supplementary material of the data visualization](https://github.com/shelleringer/heaping-mps/blob/main/Heaping-methods-12042022sh.docx). 
 
-In this repository, we include [several data sets that contain age distributions obtained in MPS](https://github.com/shelleringer/heaping-mps/upload/main/MPS%20data) conducted in Malawi, Cote d'Ivoire, Burkina Faso and Rwanda, and otherwise not publicly available. We also include a [summary data set](https://github.com/shelleringer/heaping-mps/blob/main/heaping-series.csv). It contains our estimates of Whipple's index by country, year and source of data. This data set is used as input in our data visualization.
+In this repository, we also include [several data sets that contain age distributions obtained in MPS](https://github.com/shelleringer/heaping-mps/upload/main/MPS%20data) conducted in Malawi, Cote d'Ivoire, Burkina Faso and Rwanda, and otherwise not publicly available. 
+
+Finally, we include a [summary data set](https://github.com/shelleringer/heaping-mps/blob/main/heaping-series.csv). It contains our estimates of Whipple's index by country, year and source of data. This data set is used as input in our data visualization.
 
 # Methods
 
